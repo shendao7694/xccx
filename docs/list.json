@@ -1,0 +1,13 @@
+[
+  {
+    "id": "content",
+    "title": "📦 内容",
+    "type": "folder",
+    "open":true,
+    "children": [
+      { "id": "intro", "title": "✨ 简介", "file": "intro.html", "type": "leaf" },
+      { "id": "intro", "title": "ℹ️ 提示", "file": "tip.html", "type": "leaf" },
+      { "id": "intro", "title": "📖 配方", "file": "recipe.html", "type": "leaf" }
+    ]
+  }
+]
