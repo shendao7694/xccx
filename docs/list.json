@@ -6,6 +6,7 @@
     "open":true,
     "children": [
       { "id": "intro", "title": "✨ 简介", "file": "intro.html", "type": "leaf" },
+      { "id": "intro", "title": "🌐 服务器规则", "file": "rule.md", "type": "leaf" },
       { "id": "intro", "title": "ℹ️ 提示", "file": "tip.html", "type": "leaf" },
       { "id": "intro", "title": "📖 配方", "file": "recipe.html", "type": "leaf" }
     ]
